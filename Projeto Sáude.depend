@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1637794673 source:e:\unip faculdade\pim 4\programa\projeto sáude\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1637698246 source:e:\unip faculdade\pim 4\programa\projeto sáude\icon.rc
+
+1637698246 source:c:\users\kisuni\desktop\projeto sáude\icon.rc
+
+1637697436 source:c:\users\kisuni\desktop\projeto sáude\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
